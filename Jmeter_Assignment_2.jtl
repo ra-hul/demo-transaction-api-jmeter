@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718105643639,506,Admin Login,200,OK,Thread Group 1-1,text,true,,617,314,1,1,https://dmoney.roadtocareer.net/user/login,498,0,461
+1718105646208,31,Create_Agent,208,Already Reported,Thread Group 1-1,text,true,,397,616,1,1,https://dmoney.roadtocareer.net/user/create,31,0,0
+1718105648241,29,Create_Customer,208,Already Reported,Thread Group 1-1,text,true,,397,626,1,1,https://dmoney.roadtocareer.net/user/create,29,0,0
+1718105650284,30,Merchant_user,208,Already Reported,Thread Group 1-1,text,true,,397,623,1,1,https://dmoney.roadtocareer.net/user/create,30,0,0
+1718105652319,46,Deposit_to_Agent,201,Created,Thread Group 1-1,text,true,,444,532,1,1,https://dmoney.roadtocareer.net/transaction/deposit,45,0,0
+1718105654372,47,Deposit_to_customer,201,Created,Thread Group 1-1,text,true,,439,537,1,1,https://dmoney.roadtocareer.net/transaction/deposit,46,0,0
+1718105656428,24,Check_customer_balance,200,OK,Thread Group 1-1,text,true,,377,440,1,1,https://dmoney.roadtocareer.net/transaction/balance/01457775786,24,0,0
+1718105658456,32,Withdraw_from_customer_account,201,Created,Thread Group 1-1,text,true,,429,537,1,1,https://dmoney.roadtocareer.net/transaction/withdraw,32,0,0
+1718105660499,40,Payment_to_merchant_account,201,Created,Thread Group 1-1,text,true,,429,536,1,1,http://dmoney.roadtocareer.net/transaction/payment,40,0,7
