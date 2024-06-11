@@ -9,7 +9,7 @@ depositing and withdrawing balance,checking balances, and making payments.
 - [Test Scenarios](#test-scenarios)
 - [Basic Info](#basic-info)
 - [Steps for execute given scenarios](#steps-for-execute-given-scenarios)
-- [Screenshot of html report](#screenshot-of-html-)
+- [Screenshot of html report](#screenshot-of-html)
 
 
 ## Basic Info
